@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Be VietNam', sans-serif;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+header{
+    background-color: silver;
+    padding: 25px 0;
+}
+header .logo{
+    float: left;
+    width: 30%;
+}
+header .logo a{
+    font-size: 30px;
+    color: blueviolet;
+}
+header .menu{
+  float: right;
+    width: 70%;
+}
+header .menu li{
+    float: right;
+    padding-top: 10px;
+}
+header .menu li a{
+    font-size: 12px;
+    color: crimson;
+    margin-left: 30px;
+    text-transform: uppercase;
+}
+header .menu li a:hover{
+    color: #7b7678;
+}
+section{
+    margin-top: 30px;
+    height: 700px;
+}
+.container1{
+    background-color: white;
+    height: 370px;
+}
+.container-1{
+    padding-top: 10px;
+}
+.images{
+    height: 320px;
+    float: left;
+    background-color: orange;
+    width: 50%;
+    text-align: center;
+
+}
+.text{
+    font-size: 20px;
+    background-color: red;
+    text-align: center;
+    width: 100%;
+}
+.images{
+    padding-top: 10px;
+}
+.images block-2{
+    float: left;
+    width: 1423px;
+    height: 300px;
+    color: white;
+    font-size: xx-large;
+
+}
+.images-1{
+    height: 320px;
+    float: right;
+    background-color: orange;
+    width: 50%;
+    padding-top: 10px;
+}
+.images-1 .block-3{
+    padding-left: 30px;
+    float: left;
+    width: 50%;
+
+}
+.images-1 .block-4{
+    float: right;
+    width: 50%;
+    padding-left: 10px;
+}
+.sidebar{
+    background-color: blueviolet;
+    height: 330px;
+    width: 100%;
+}
+.sidebar .so3{
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    color: red;
+    font-size: 20px;
+}
+.sidebar .so3-1{
+    float: left;
+    text-align: center;
+    padding-left: 30px;
+    color: red;
+}
+.sidebar .so3-1 .so4-1{
+    float: left;
+    width: 320px;
+    height: 300px;
+    background-color: aqua;
+    padding-top: 20px;
+}
+.sidebar .so3-1 .so4-2 {
+    float: left;
+    width: 320px;
+    height: 300px;
+    background-color: aqua;
+    padding-top: 50px;
+}
+.sidebar .so3-1 .so4-3 {
+    float: right;
+    width: 320px;
+    height: 300px;
+    background-color: aqua;
+    padding-top: 50px;
+}
+.sidebar .so3-1 .so4-4 {
+    float: right;
+    width: 320px;
+    height: 300px;
+    background-color: aqua;
+    padding-top: 40px;
+}
