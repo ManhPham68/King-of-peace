@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.header {
+    width: 1170px;
+    margin: 10px;
+    height: 80px;
+    background-color: lightgray;
+}
+.section1 {
+    width: 1170px;
+    margin: 10px;
+    height: 500px;
+    background-color: lightgrey;
+}
+
+.section2 {
+    width: 1170px;
+    margin-right: 10px;
+    margin-left:10px;
+    margin-top: 50px;
+    height: 900px;
+    background-color: white;
+}
+#top-head {
+    padding-left: 350px;
+    color: lightblue;
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    background-color: white;
+}
+.list {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 1135px;
+    height: 300px;
+    background-color: white;
+    float: left;
+}
+.combo {
+    width: 250px;
+    height: 400px;
+    background-color: white;
+    float: left;
+    margin-right: 30px;
+}
+#sp {
+    width: 245px;
+    float: left;
+    padding-right: 20px;
+}
+.motasp {
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+}
+.motasp #mota1 {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: darkgrey;
+}
+.motasp #gia {
+    font-size: 19px;
+    text-transform: uppercase;
+    color: gray;
+}
+#icon {
+    width: 40px;
+    margin-left:525px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#story {
+    margin-left:380px;
+    font-size: 18px;
+    color: gray;
+}
+.combo1 {
+    width: 330px;
+    height: 300px;
+    border-radius: 10%;
+    background-color: white;
+    float: left;
+    margin-right: 40px;
+}
+#sp1 {
+    width: 300px;
+    border-radius: 10%;
+}
+#desc {
+    width: 900px;
+    margin-left: 100px;
+    text-align: center;
+    height: 50px;
+}
+#xemchitiet {
+    background-color: white;
+    border: 1px solid lightgray;
+    text-align: center;
+    color: gray;
+    text-transform: uppercase;
+    font-size: 20px;
+    width: 200px;
+    margin-left: 450px;
+    margin-top: 40px;
+    border-radius: 5%;
+}
+.desc-combo {
+    float: left;
+    width: 700px;
+    height: 225px;
+    background-color: white;
+    border-radius: 1%;
+    border: 1px solid lightgray;
+}
+#title {
+    font-size: 20px;
+    padding: 10px;
+    text-transform: uppercase;
+}
+#title-desc {
+    width: 650px;
+    padding: 10px;
+    height: 120px;
+}
+#muangay {
+    margin-left: 20px;
+    width: 100px;
+    font-size: 14px;
+    border: 1px solid lightgray;
+    background-color: white;
+    color: gray;
+}
+.footer {
+    width: 1170px;
+    margin: 10px;
+    height: 100px;
+    background-color: lightgrey;
+}
