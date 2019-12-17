@@ -1,0 +1,347 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f6f4e6;
+}
+header{
+    background-color: #fff;
+    padding: 25px 0;
+}
+header .logo{
+    float: left;
+    width: 21%;
+}
+header .menu{
+    float: left;
+    width: 42%;
+    margin: 0px 71px;
+}
+header .search{
+    float: right;
+    width: 23%;
+}
+.menu a{
+    text-decoration: none;
+    float: left;
+    padding:16px 10px 15px ;
+    color:#747474;
+    font-weight: 200px;
+}
+.menu a:hover{
+    color: red;
+}
+#search{
+    border: 4px; */
+float: right;
+    padding: 17px 15px 16px;
+    /* border: 1px solid; */
+    border-inline-end: 0px;
+    border-block-end: -13px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.content{
+    width: 100%;
+    height: 350px;
+    color: #255625;
+    background-color: #f6f4e6;
+
+}
+.content .block-1{
+    float: left;
+    width: 30%;
+
+}
+.block-1 .box1{
+    width: 350px;
+    background-color: #ede9d1;
+    text-align: center;
+}
+.content .block-2{
+    float: left;
+    width: 30%;
+    margin-left: 50px;
+}
+.block-2 .box1{
+    width: 350px;
+    background-color: #ede9d1;
+    text-align: center;
+}
+.content .block-3{
+    float: right;
+    width: 30%;
+    margin-right: 10px;
+}
+.block-3 .box1{
+    width: 350px;
+    background-color: #ede9d1;
+    text-align: center;
+
+}
+.content .btn{
+    color: #ffffff;
+    font-size: 20px;
+    background-color: #ff7363;
+}
+.text{
+    margin-top: 80px;
+    text-align: center;
+}
+.mau{
+    color: red;
+}
+.so7{
+    border-radius: 10%;
+    background-color: #efb88b;
+    width: 30%;
+    margin-left: 30px;
+}
+.sidebar{
+    width: 100%;
+    height: 420px;
+    background-color: white;
+}
+.sidebar .demo{
+    float: left;
+  width: 70%;
+    height: 400px;
+    background-color: #efb88b;
+}
+.sidebar .demo .siro{
+    float: left;
+    background-color: white;
+    width: 50%;
+    height: 50%;
+}
+.sidebar .demo .siro1{
+    float: right;
+    background-color: white;
+    width: 50%;
+    height: 50%;
+}
+.sidebar .demo .siro2{
+    float: left;
+    background-color: white;
+    width: 50%;
+    height: 50%;
+}
+.sidebar .demo .siro3{
+    float: right;
+    background-color: white;
+    width: 50%;
+    height: 50%;
+}
+.anhsiro{
+    padding-top: 10px;
+    width: 50%;
+    height: 50%;
+    float: left;
+}
+.chuthich{
+    width: 50%;
+    height: 50%;
+    float: right;
+    text-align: center;
+    margin-top: 70px;
+}
+.demo1{
+    float: right;
+    width: 30%;
+    height: 400px;
+    background-color: white;
+}
+.mau{
+    color: red;
+}
+.table{
+    width: 100%;
+    height: 400px;
+    background-color: #2aabd2;
+}
+.table .room1{
+    float: left;
+    width: 25%;
+    height: 100%;
+    background-color: white;
+}
+.table .room2{
+    float: left;
+    width: 25%;
+    height: 100%;
+    background-color: white;
+}
+.table .room3{
+    float: right;
+    width: 25%;
+    height: 100%;
+    background-color: white;
+}
+.table .room4{
+    float: right;
+    width: 25%;
+    height: 100%;
+    background-color: white;
+}
+
+
+.footer{
+    width: 100%;
+    height: 418px;
+    background: #f2f2f2;
+    line-height: 30px;
+    padding-top: 20px;
+}
+.container2{
+    background-color: #f2f2f2;
+}
+.section-footer{
+    float: left;
+    width: 100%;
+    height: 60px;
+    margin: 137px 0px;
+}
+.footerr{
+    margin: -6px -6%;
+}
+#div1{
+    display: inline-block;
+    width: 32%;
+    float: left;
+}
+#div2{
+    display: inline-block;
+    margin: 0px 100px;
+}
+#div3{
+    display: inline-block;
+    width: 23%;
+    float: right;
+}
+#div2-1{
+    display: inline-block;
+    float: left;
+    margin-top: 20px;
+}
+#div2-2{
+    display: inline-block;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+.footer a{
+    color: black;
+    text-decoration: none;
+    font-size: 13px;
+}
+.footer a:hover{
+    text-decoration: underline;
+}
+.footer select{
+    float: right;
+    height: 40px;
+    width: 100%;
+    padding: 5px;
+    margin: 5px 0px 10px 0px;
+    border-style: none;
+}
+.footer span{
+    font-size: large;
+}
+.footer p{
+    font-size: 13px;
+    margin-top: 20px;
+}
+.footer img{
+    display: inline-block;
+    width: 55px;
+    height: 27px;
+    border-radius: 3px;
+    margin: 2px;
+}
+#mp{
+    font-size: 12px;
+    margin: 0px;
+}
+.footer form{
+    margin-top: 20px;
+}
+#red{
+    color: red;
+}
+#pt1{
+    font-size: 33px;
+    color:red;
+}
+#pt:hover{
+    text-decoration: none;
+    cursor: pointer;
+}
+.footer h5{
+    margin: 0px;
+}
+#kvuc{
+    font-size: 13px;
+}
+#diachi{
+    font-size: 13px;
+}
+#dangky1{
+    width: 98%;
+    height: 40px;
+    border-style: none;
+    margin: 5px 0px;
+    padding-left:5px;
+}
+#dangky2{
+    text-align: center;
+    width: 165px;
+    height: 40px;
+    margin-top: 5px;
+    cursor: pointer;
+    color: white;
+    font-size: 14px;
+    background-color: red;
+    border:none;
+}
+#design{
+    text-align: center;
+    margin: 20px;
+    width: 100%;
+    font-size: 13px;
+}
+#logoUTC{
+    width: 70px;
+    height: 70px;
+    vertical-align: middle;
+    margin:0px 20px;
+}
+@media only screen and (max-width:600px){
+    #div1, #div2, #div3{
+        width:100%;
+    }
+    #div2-2{
+        margin-left:0;
+        margin-bottom: 10px;
+    }
+    .footer{
+        height:1320px;
+    }
+    #logoUTC{
+        width: 30px;
+        height: 30px;
+        margin:0;
+    }
+    #design{
+        text-align: left;
+        font-size: 0.6em;
+    }
+    .option option{
+        font-size: 10px;
+    }
+    #dangky2{
+        width: 255px;
+    }
+}
